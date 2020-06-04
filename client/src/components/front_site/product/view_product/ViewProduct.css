@@ -1,0 +1,45 @@
+.view-product {
+    position: absolute;
+
+    top: 65px;
+    left: 14px;
+    width: 98%;
+    max-width: 98%;
+    height: 150%;
+}
+
+.content {
+    width: 96%;
+    position: absolute;
+    height: auto;
+    left: 30px;
+    top: 20px;
+}
+
+.image {
+    width: 395px;
+    position: absolute;
+    left: 725px;
+    height: 300px;
+
+}
+
+.personal-detail {
+    position: absolute;
+    top: 500px;
+    width: 96%;
+    left: 30px;
+    height: 700px;
+}
+
+.home-content {
+    position: absolute;
+    top: 0px;
+    width: 1190px;
+
+    max-width: 1190px;
+    overflow: none;
+    left: 10px;
+    height: 1000px;
+
+}

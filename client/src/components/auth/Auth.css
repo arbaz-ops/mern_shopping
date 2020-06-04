@@ -1,0 +1,13 @@
+.login-form {
+  width: 300px;
+  height: 570px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  text-decoration-color: white;
+  transform: translate(-50%, -50%);
+}
+
+.image {
+  width: 4cm;
+}

@@ -1,0 +1,18 @@
+.home-content {
+    position: absolute;
+    top: 65px;
+    width: 1190px;
+
+    max-width: 1190px;
+
+    left: 10px;
+    height: auto;
+}
+
+.products {
+    width: 350px;
+    max-width: 350px;
+    position: relative;
+    left: 20px;
+    top: 80px;
+}

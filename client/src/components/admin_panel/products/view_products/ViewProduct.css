@@ -1,0 +1,11 @@
+.view-products {
+
+    width: 600px;
+    height: 570px;
+    position: absolute;
+    left: 35%;
+    top: 35%;
+    text-decoration-color: white;
+    transform: translate(-50%, -50%);
+
+}
